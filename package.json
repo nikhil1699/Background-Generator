@@ -1,0 +1,11 @@
+{
+  "name": "background-generator-master",
+  "version": "1.0.0",
+  "description": "Just a background generator",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "author": "Nikhil Chauhan",
+  "license": "ISC"
+}
